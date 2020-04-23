@@ -1,0 +1,7 @@
+# Folders
+autoload/
+plugged/
+session/
+
+# Files
+.netrwhist
